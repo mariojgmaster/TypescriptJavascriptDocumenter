@@ -2,10 +2,10 @@
 	"name": "typescriptdocumenter",
 	"displayName": "TypeScript and JavaScript Documenter",
 	"description": "This extension will help to document the typescript code",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "MarioJorgeOliveira",
 	"engines": {
-		"vscode": "^1.55.0"
+		"vscode": "^1.44.0"
 	},
 	"categories": [
 		"Language Packs",
